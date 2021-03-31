@@ -1,0 +1,6 @@
+D:\Projeler\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll
+D:\Projeler\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.pdb
+D:\Projeler\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csprojAssemblyReference.cache
+D:\Projeler\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
+D:\Projeler\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb
